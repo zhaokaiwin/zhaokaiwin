@@ -1,8 +1,12 @@
 ### Hi  there I’m [Kaiwin](https://github.com/zhaokaiwin) 👋
 
+<<<<<<< HEAD
 <div align="center">
   <img src="https://github.com/zhaokaiwin/zhaokaiwin/blob/main/hello-world.gif" width="30%">
 </div>
+=======
+![Alt text](https://github.com/zhaokaiwin/zhaokaiwin/blob/main/hello-world.gif) 
+>>>>>>> 399f1ecaa1806fd830da551cc8b8fcbd31d62ac4
 
 
 
