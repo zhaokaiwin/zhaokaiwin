@@ -15,7 +15,8 @@
 [![](https://img.shields.io/badge/TypeScript-cb3837?style=flat-square&logo=TypeScript&logoColor=ffffff)](https://www.typescriptlang.org/)
 [![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
-[![](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)   
+[![](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/) 
+
 [![](https://img.shields.io/badge/React-cb3837?style=flat-square&logo=React&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
@@ -27,10 +28,7 @@
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhaokaiwin&langs_count=4&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)     
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/jasonkayzk/count.svg" />
-</p>
+
 
 - 🔭 I’m currently working on home
 - 🌱 I’m currently learning Typescript and Webpack
