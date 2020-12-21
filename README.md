@@ -1,13 +1,8 @@
 ### Hi  there I’m [Kaiwin](https://github.com/zhaokaiwin) 👋
 
-<<<<<<< HEAD
 <div align="center">
   <img src="https://github.com/zhaokaiwin/zhaokaiwin/blob/main/hello-world.gif" width="30%">
 </div>
-=======
-![Alt text](https://github.com/zhaokaiwin/zhaokaiwin/blob/main/hello-world.gif) 
->>>>>>> 399f1ecaa1806fd830da551cc8b8fcbd31d62ac4
-
 
 
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
@@ -22,15 +17,10 @@
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![](https://img.shields.io/badge/TypeScript-cb3837?style=flat-square&logo=TypeScript&logoColor=ffffff)](https://www.typescriptlang.org/)
-
 [![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
-
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
-
 [![](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)   
-
 [![](https://img.shields.io/badge/React-cb3837?style=flat-square&logo=React&logoColor=ffffff)](https://reactjs.org/)
-
 [![](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
