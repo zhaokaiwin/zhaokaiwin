@@ -10,10 +10,6 @@
 [![](https://img.shields.io/badge/IDE-PyCharm-blue?style=flat-square&logo=jetbrains&logoColor=ffffff)](https://www.jetbrains.com/pycharm/)
 [![](https://img.shields.io/badge/IDE-WebStorm-blue?style=flat-square&logo=jetbrains&logoColor=ffffff)](https://www.jetbrains.com/webstorm/)
 
-
-
-
-
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![](https://img.shields.io/badge/TypeScript-cb3837?style=flat-square&logo=TypeScript&logoColor=ffffff)](https://www.typescriptlang.org/)
@@ -29,8 +25,12 @@
 
 ![Kaiwin's github stats](https://github-readme-stats.vercel.app/api?username=zhaokaiwin&show_icons=true&theme=synthwave)  
 
-
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhaokaiwin&langs_count=4&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)     
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/jasonkayzk/count.svg" />
+</p>
 
 - 🔭 I’m currently working on home
 - 🌱 I’m currently learning Typescript and Webpack
