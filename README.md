@@ -1,6 +1,6 @@
 ### Hi look there be an engineer with me👋
 
-![Alt text](D:\git\zhaokaiwin\hello-world.gif) 
+![Alt text](https://github.com/zhaokaiwin/zhaokaiwin/blob/main/hello-world.gif) 
 
 <!--
 **zhaokaiwin/zhaokaiwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
