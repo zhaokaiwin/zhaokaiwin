@@ -36,5 +36,5 @@
 - 💬 Ask me about Anything you want~~~
 - 📫 Reach me: 1150572046@qq.com
 - 😄 Pronouns: 凯凯哥
-- ⚡ Fun fact: Music, Japanese & English,Exercise, Animation, Play computer games.
+- ⚡ Fun fact: Music, Japanese & English,Exercise, Animation, Play computer games, Music and Sing songs.
   
