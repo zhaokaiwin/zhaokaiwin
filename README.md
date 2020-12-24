@@ -30,7 +30,7 @@
 
 
 
-- 🔭 I’m currently working on home
+- 🔭 I’m currently working on 杭州
 - 🌱 I’m currently learning Typescript and Webpack
 - 🤔 I’m looking for help with Typescript and Webpack developent
 - 💬 Ask me about Anything you want~~~
